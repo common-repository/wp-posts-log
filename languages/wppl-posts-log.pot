@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Adil Öztaşer <a@oztaser.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Posts Log"
+msgstr ""
+
+msgid "Log Detail"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "All Users"
+msgstr ""
+
+msgid "%1$s %2$s published the %3$s"
+msgstr ""
+
+msgid "%1$s %2$s edited the %3$s"
+msgstr ""
+
+msgid "%1$s %2$s trashed the %3$s"
+msgstr ""
+
+msgid "%1$s %2$s drafted the %3$s"
+msgstr ""
+
+msgid "%1$s %2$s untrashed the %3$s"
+msgstr ""
+
+msgid "%1$s %2$s scheduled the %3$s"
+msgstr ""

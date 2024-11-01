@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: tr\n"
+
+msgid "Posts Log"
+msgstr ""
+
+msgid "Log Detail"
+msgstr "Log Açıklaması"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "All Users"
+msgstr "Tüm Kullanıcılar"
+
+msgid "%1$s %2$s published the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından yayına alındı"
+
+msgid "%1$s %2$s edited the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından düzenlendi"
+
+msgid "%1$s %2$s trashed the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından çöpe taşındı"
+
+msgid "%1$s %2$s drafted the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından taslak olarak kaydedildi"
+
+msgid "%1$s %2$s untrashed the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından çöpten geri alındı"
+
+msgid "%1$s %2$s scheduled the %3$s"
+msgstr "%1$s %3$s yazısı %2$s tarafından yayınlanması için ileri bir tarih girildi"
